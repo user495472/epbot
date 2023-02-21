@@ -5,8 +5,8 @@ dotenv.config()
 
 const ELEMENTS = {
     // login page elements
-    usernameClass: '#login-username',
-    passwordClass: '#login-password',
+    usernameClass: '#dontae.fawcett@shirley.school.nz',
+    passwordClass: '#sider2tis',
     loginButtonClass: '#login-submit-button',
 
     // task starter page elements
